@@ -2,7 +2,6 @@
 A Full Stack developer🎯 from tunisia.
 
 - 👨‍💻 Full Stack JS Developer 
-- 🌱 I’m currently learning typescript and ReactNative
 
 
 
